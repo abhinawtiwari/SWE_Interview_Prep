@@ -1,3 +1,8 @@
+# How Uber guarantees 99.99% availability to its downstream services through primary failover
+
+![How Uber guarantees 99.99% availability to its downstream services through primary failover
+](./primary_failover_uber.svg)
+
 # Presto
 ![Presto](presto.svg)
 # Pinot
